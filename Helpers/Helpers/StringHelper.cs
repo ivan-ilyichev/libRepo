@@ -12,5 +12,10 @@ namespace Helpers
         {
             return "Hey!";
         }
+
+        public string SayYeah()
+        {
+            return "Yeah!";
+        }
     }
 }
